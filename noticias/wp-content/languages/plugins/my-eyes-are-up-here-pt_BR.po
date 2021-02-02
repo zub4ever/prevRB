@@ -1,0 +1,89 @@
+# Translation of Plugins - My Eyes Are Up Here - Stable (latest release) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - My Eyes Are Up Here - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-06-17 06:57:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - My Eyes Are Up Here - Stable (latest release)\n"
+
+#. Author URI of the plugin
+msgid "http://interconnectit.com"
+msgstr "http://interconnectit.com"
+
+#. Author of the plugin
+msgid "interconnect/it"
+msgstr "interconnect/it"
+
+#. Description of the plugin
+msgid "Detects faces during thumbnail cropping and moves the crop position accordingly."
+msgstr "Detecta rostos durante o recorte d miniaturas e move a posição do recorte apropriadamente."
+
+#. Plugin URI of the plugin
+msgid "https://github.com/interconnectit/my-eyes-are-up-here"
+msgstr "https://github.com/interconnectit/my-eyes-are-up-here"
+
+#. Plugin Name of the plugin
+msgid "My Eyes Are Up Here"
+msgstr "My Eyes Are Up Here"
+
+#: includes/class-meauh-attachment.php:301
+msgid "Face detection"
+msgstr "Detecção facial"
+
+#: includes/class-meauh-attachment.php:297
+msgid "This plugin requires javascript to work"
+msgstr "Este plugin requer que o javascript esteja ativo para funcionar"
+
+#: includes/class-meauh-attachment.php:286
+msgid "hotspot"
+msgid_plural "hotspots"
+msgstr[0] "ponto"
+msgstr[1] "pontos"
+
+#: includes/class-meauh-attachment.php:278
+msgid "Manually add hotspots that you want to avoid cropping."
+msgstr "Adicione manualmente os pontos onde você quer evitar o recorte."
+
+#: includes/class-meauh-attachment.php:272
+msgid "Add hotspots"
+msgstr "Adicionar pontos"
+
+#: includes/class-meauh-attachment.php:267
+msgid "Edit hotspots"
+msgstr "Editar pontos"
+
+#: includes/class-meauh-attachment.php:255
+msgid "face"
+msgid_plural "faces"
+msgstr[0] "rosto"
+msgstr[1] "rostos"
+
+#: includes/class-meauh-attachment.php:252
+#: includes/class-meauh-attachment.php:283
+msgid "%d %s found, thumbnails regenerated to fit them into crop area."
+msgstr "%d %s encontrado(s), recrie as miniaturas para encaixá-los na área de recorte."
+
+#: includes/class-meauh-attachment.php:245
+msgid "Please note this is basic face detection and won't find everything. Use hotspots to highlight any that were missed."
+msgstr "Note que esta é uma detecção facial básica e não encontrará tudo. Use os pontos para identificar algum que deixamos passar."
+
+#: includes/class-meauh-attachment.php:239
+msgid "Detect faces"
+msgstr "Detectar rostos"
+
+#: includes/class-meauh-attachment.php:234
+msgid "Forget found faces"
+msgstr "Esquecer os rostos encontrados"
+
+#: includes/class-meauh-attachment.php:220
+msgid "Thumb Previews"
+msgstr "Prévias das miniaturas"
+
+#: includes/class-meauh-attachment.php:68
+msgid "Unknown failure reason"
+msgstr "Motivo da falha desconhecido"

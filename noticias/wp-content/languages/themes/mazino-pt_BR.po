@@ -1,0 +1,36 @@
+# Translation of Themes - Mazino in Portuguese (Brazil)
+# This file is distributed under the same license as the Themes - Mazino package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-04-09 17:36:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Themes - Mazino\n"
+
+#. Description of the plugin/theme
+msgid "Mazino is a responsive, multi-purpose WordPress theme. It's flexible and suitable for agencies, blogs, business, corporate or portfolios. Customization is easy and straight-forward, with options provided that allow you to setup your site to perfectly fit your desired online presence. Mazino offers a beautifully designed masonry blog layout. For more details, visit this link https://wordpress.org/themes/quality/. We hope you will find the Mazino theme useful."
+msgstr "Mazino é um tema WordPress responsivo e multi-propósito. É flexível e adequado para agências, blogs, empresas, corporações ou portfólios. A personalização é fácil e direta, com opções fornecidas que permitem que você configure seu site para se adequar perfeitamente à sua presença online desejada. Mazino oferece um layout de blog que foi lindamente projetado. Para mais detalhes, acesse este link https://wordpress.org/themes/quality/. Esperamos que você ache o tema Mazino útil."
+
+#. Theme Name of the plugin/theme
+msgid "Mazino"
+msgstr "Mazino"
+
+#: index.php:34
+msgid "Read more"
+msgstr "Leia mais"
+
+#. Author URI of the plugin/theme
+msgid "https://www.webriti.com"
+msgstr "https://www.webriti.com"
+
+#. Author of the plugin/theme
+msgid "webriti"
+msgstr "webriti"
+
+#. Theme URI of the plugin/theme
+msgid "https://webriti.com/mazino-wordpress-page"
+msgstr "https://webriti.com/mazino-wordpress-page"

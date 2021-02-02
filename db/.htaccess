@@ -1,0 +1,4 @@
+AuthUserFile "/var/www/desenvolvimento/db/.htpasswd"
+AuthType Basic
+AuthName "My Realm"
+require user siprev
